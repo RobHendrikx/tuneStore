@@ -1,0 +1,21 @@
+C:\Users\AsusNotebook\AppData\Local\Temporary Projects\tuneStore\bin\Release\tuneStore.exe
+C:\Users\AsusNotebook\AppData\Local\Temporary Projects\tuneStore\bin\Release\tuneStore.pdb
+C:\Users\AsusNotebook\AppData\Local\Temporary Projects\tuneStore\obj\x86\Release\tuneStore.frmTunestoreShoo.resources
+C:\Users\AsusNotebook\AppData\Local\Temporary Projects\tuneStore\obj\x86\Release\tuneStore.Properties.Resources.resources
+C:\Users\AsusNotebook\AppData\Local\Temporary Projects\tuneStore\obj\x86\Release\tuneStore.csproj.GenerateResource.Cache
+C:\Users\AsusNotebook\AppData\Local\Temporary Projects\tuneStore\obj\x86\Release\tuneStore.exe
+C:\Users\AsusNotebook\AppData\Local\Temporary Projects\tuneStore\obj\x86\Release\tuneStore.pdb
+C:\Users\AsusNotebook\Desktop\Sander\Documents\Visual Studio 2010\Projects\tuneStore\tuneStore\obj\x86\Release\tuneStore.exe
+C:\Users\AsusNotebook\Desktop\Sander\Documents\Visual Studio 2010\Projects\tuneStore\tuneStore\obj\x86\Release\tuneStore.pdb
+C:\Users\AsusNotebook\Desktop\Sander\Documents\Visual Studio 2010\Projects\tuneStore\tuneStore\bin\Release\tuneStore.exe
+C:\Users\AsusNotebook\Desktop\Sander\Documents\Visual Studio 2010\Projects\tuneStore\tuneStore\bin\Release\tuneStore.pdb
+C:\Users\AsusNotebook\Desktop\Sander\Documents\Visual Studio 2010\Projects\tuneStore\tuneStore\obj\x86\Release\Interop.WMPNSSCI.dll
+C:\Users\AsusNotebook\Desktop\Sander\Documents\Visual Studio 2010\Projects\tuneStore\tuneStore\obj\x86\Release\tuneStore.csproj.ResolveComReference.cache
+C:\Users\AsusNotebook\Desktop\Sander\Documents\Visual Studio 2010\Projects\tuneStore\tuneStore\obj\x86\Release\tuneStore.frmTunestoreShoo.resources
+C:\Users\AsusNotebook\Desktop\Sander\Documents\Visual Studio 2010\Projects\tuneStore\tuneStore\obj\x86\Release\tuneStore.Properties.Resources.resources
+C:\Users\AsusNotebook\Desktop\Sander\Documents\Visual Studio 2010\Projects\tuneStore\tuneStore\obj\x86\Release\tuneStore.csproj.GenerateResource.Cache
+C:\Users\AsusNotebook\Desktop\Sander\Documents\Visual Studio 2010\Projects\tuneStore\tuneStore\bin\Release\tuneStore.exe.manifest
+C:\Users\AsusNotebook\Desktop\Sander\Documents\Visual Studio 2010\Projects\tuneStore\tuneStore\bin\Release\tuneStore.application
+C:\Users\AsusNotebook\Desktop\Sander\Documents\Visual Studio 2010\Projects\tuneStore\tuneStore\obj\x86\Release\tuneStore.TrustInfo.xml
+C:\Users\AsusNotebook\Desktop\Sander\Documents\Visual Studio 2010\Projects\tuneStore\tuneStore\obj\x86\Release\tuneStore.exe.manifest
+C:\Users\AsusNotebook\Desktop\Sander\Documents\Visual Studio 2010\Projects\tuneStore\tuneStore\obj\x86\Release\tuneStore.application
