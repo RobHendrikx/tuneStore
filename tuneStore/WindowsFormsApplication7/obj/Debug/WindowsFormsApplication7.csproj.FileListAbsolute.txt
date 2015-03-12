@@ -1,0 +1,2 @@
+c:\users\rob\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\TuneStore\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config

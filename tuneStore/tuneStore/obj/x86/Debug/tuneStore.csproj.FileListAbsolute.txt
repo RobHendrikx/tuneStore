@@ -50,3 +50,5 @@ C:\Users\yamai\Documents\Visual Studio 2013\Projects\in de klas\tuneStore\tuneSt
 C:\Users\yamai\Documents\Visual Studio 2013\Projects\in de klas\tuneStore\tuneStore\obj\x86\Debug\tuneStore.TrustInfo.xml
 C:\Users\yamai\Documents\Visual Studio 2013\Projects\in de klas\tuneStore\tuneStore\obj\x86\Debug\tuneStore.exe.manifest
 C:\Users\yamai\Documents\Visual Studio 2013\Projects\in de klas\tuneStore\tuneStore\obj\x86\Debug\tuneStore.application
+C:\Users\Rob\Documents\GitHub\tuneStore\tuneStore\tuneStore\obj\x86\Debug\Interop.WMPNSSCI.dll
+C:\Users\Rob\Documents\GitHub\tuneStore\tuneStore\tuneStore\obj\x86\Debug\tuneStore.csproj.ResolveComReference.cache
